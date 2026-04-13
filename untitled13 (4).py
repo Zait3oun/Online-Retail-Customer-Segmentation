@@ -17,7 +17,7 @@ import os
 
 """# **Loading the Dataset**"""
 
-data=pd.read_excel('/content/Online Retail (1).xlsx')
+data=pd.read_excel('/Online Retail (1).xlsx')
 
 data
 
